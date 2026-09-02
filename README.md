@@ -438,7 +438,6 @@ Gained practical experience in a professional IT environment and developed techn
 * **Networking Basics** — Cisco Networking Academy
 * **UX Research for Beginners**
 * **Microsoft Foundry / AI Learning**
-* **AI & Machine Learning — Continuous Learning**
 
 ---
 
