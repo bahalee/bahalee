@@ -350,14 +350,6 @@ Continuously learning, building and improving.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bahalee&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="180" alt="GitHub Statistics" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahalee&layout=compact&theme=transparent&hide_border=true&langs_count=8&count_private=true" height="180" alt="Top Languages" />
-
-</div>
-
-<br />
-
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=bahalee&theme=transparent&hide_border=true" height="180" alt="GitHub Contribution Streak" />
@@ -370,7 +362,7 @@ Continuously learning, building and improving.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/bahalee/bahalee/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" loading="lazy" />
+<img src="https://raw.githubusercontent.com/bahalee/bahalee/gh-pages/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" loading="lazy" />
 
 </div>
 
