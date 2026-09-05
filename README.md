@@ -12,6 +12,9 @@
 <img src="https://img.shields.io/badge/Available%20for%20Work-7C3AED?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Available for Work"/>
 </a>
 
+<a href="https://bkportfolio.bahakbaili.workers.dev/"> <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+
 <a href="https://github.com/bahalee">
 <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
